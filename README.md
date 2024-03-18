@@ -1,2 +1,2 @@
 # blog-notes
-oak's blog. in the form of .md docs. about random, interesting stuff. 
+oak's blog, notes style. in the form of .md docs. about random, interesting stuff. 
